@@ -1,0 +1,11 @@
+#ent{
+    width: 600px;
+    height: 250px;
+}
+table{
+    border-collapse: collapse
+  }
+td{
+    border: 1px solid black;
+    padding: 10px;
+  }
